@@ -5,7 +5,6 @@ using namespace std;
 Student::Student(string n, int m) {
     name = n;
     marks = m;
-    
 }
 
 void Student::display() {
